@@ -1,8 +1,10 @@
 ### Hello! 👋
 
-I'm John Anthony Balbin. I am an experienced software engineer with expertise in Software Quality Assurance and Web Development.
+What's up? I hope you're doing amazin'! 
 
-I also sometimes practice my coding skills on [HackerRank](https://www.hackerrank.com/janny_dev) and create videos on [Youtube](https://www.youtube.com/channel/UCzINOxu9FKYF2PRiLFdwP0g?view_as=subscriber).
+I'm John Anthony Balbin, an experienced Software Engineer with expertise in Software Quality Assurance and Web Development.
+
+On my leisure times, I practice my coding skills at [HackerRank](https://www.hackerrank.com/janny_dev) and create videos on [Youtube](https://www.youtube.com/channel/UCzINOxu9FKYF2PRiLFdwP0g?view_as=subscriber).
 
 - 😄 I am happy with what I am doing.
 - 💬 I love to connect to developers and grow my Professional IT Network.
