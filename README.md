@@ -6,6 +6,7 @@ I'm John Anthony Balbin, an experienced Software Engineer with expertise in Soft
 
 On my leisure times, I practice my coding skills at [HackerRank](https://www.hackerrank.com/janny_dev) and create videos on [Youtube](https://www.youtube.com/channel/UCzINOxu9FKYF2PRiLFdwP0g?view_as=subscriber).
 
+- 🖥️ Currently working as Lead QA and Support at SparkPoint Technologies, Inc.
 - 😄 I am happy with what I am doing.
 - 💬 I love to connect to developers and grow my Professional IT Network.
 - 🌱 I’m currently learning ReactJS, Flutter and Node.js
