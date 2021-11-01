@@ -9,8 +9,7 @@ On my leisure times, I practice my coding skills at [HackerRank](https://www.hac
 - 🖥️ Currently working as Lead QA and Support at SparkPoint Technologies, Inc.
 - 😄 I am happy with what I am doing.
 - 💬 I love to connect to developers and grow my Professional IT Network.
-- 🌱 I’m currently learning ReactJS, Flutter and Node.js
-
+- 🌱 I’m currently learning Solity Programming
 
 Instagram: [![Instagram](https://img.shields.io/badge/-janbalbin-orange)](https://www.instagram.com/janbalbin/)
 Twitter: [![Twitter](https://img.shields.io/badge/-DevChoks-blue)](https://twitter.com/DevChoks) YouTube: [![YouTube](https://img.shields.io/badge/-JA%20Balbin-red)](https://www.youtube.com/channel/UCzINOxu9FKYF2PRiLFdwP0g?view_as=subscriber) 
