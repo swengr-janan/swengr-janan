@@ -1,10 +1,10 @@
 ### Hello! 👋
 
-What's up? I hope you're doing amazin'! 
+What's up? I hope you're doing amazing!
 
 I'm John Anthony Balbin, an experienced Software Engineer with expertise in Software Quality Assurance and Web Development.
 
-On my leisure times, I practice my coding skills at [HackerRank](https://www.hackerrank.com/janny_dev) and create videos on [Youtube](https://www.youtube.com/channel/UCzINOxu9FKYF2PRiLFdwP0g?view_as=subscriber).
+On my leisure times, I practice my coding skills at [HackerRank](https://www.hackerrank.com/janny_dev), create videos on [Youtube](https://www.youtube.com/channel/UCzINOxu9FKYF2PRiLFdwP0g?view_as=subscriber), and I also make videos about Blockchain, NFT, Cryptocurrenties and other web3 stuffs on [TikTok](https://www.tiktok.com/@balbzie)
 
 - 🖥️ Currently working as Lead QA at SparkPoint Technologies, Inc. and MetaGaming Guild
 - 😄 I am happy with what I am doing.
