@@ -8,7 +8,7 @@ On my leisure times, I practice my coding skills at [HackerRank](https://www.hac
 
 - 👋 Community Manager at Filipino Web3 Community Builders
 - 🖥️ Currently working as Lead QA at SparkPoint Technologies, Inc. and MetaGaming Guild
-- 😄 I am happy with what I am doing.
+- 👨‍💻 Blockchain Advocate | NFT Enthusiast | Web3 Builder
 - 💬 I love to connect to developers and grow my Professional IT Network.
 - 🌱 a perpetual learner
 - 🐕 Founder of Project Strays
