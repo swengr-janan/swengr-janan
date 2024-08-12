@@ -7,8 +7,8 @@ I'm John Anthony Balbin, an experienced Software Engineer with expertise in Soft
 On my leisure times, I practice my coding skills at [HackerRank](https://www.hackerrank.com/janny_dev), create videos on [Youtube](https://www.youtube.com/channel/UCzINOxu9FKYF2PRiLFdwP0g?view_as=subscriber), and I also make videos about Blockchain, NFT, Cryptocurrency and other web3 stuffs on [TikTok](https://www.tiktok.com/@balbzie)
 
 - 👋 Community Manager at Filipino Web3 Community Builders
-- 🖥️ Currently working as Lead QA at SparkPoint Technologies, Inc. and MetaGaming Guild
-- 👨‍💻 Blockchain Advocate | NFT Enthusiast | Web3 Builder
+- 🖥️ Studying Data Science and Artificial Intelligence
+- 👨‍💻 Web Developer
 - 💬 I love to connect to developers and grow my Professional IT Network.
 - 🌱 a perpetual learner
 - 🐕 Founder of Project Strays
